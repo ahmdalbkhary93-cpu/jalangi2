@@ -1,4 +1,4 @@
-/*
+/*my Privacy 
  * Copyright 2014 Samsung Information Systems America, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
